@@ -25,7 +25,7 @@ O projeto tem como objetivo motivar as pessoas a conhecerem o espaço  Web Nebul
 
 ## Site 💻
 
-Conheça o site clicando em <a href="https://wandersondefariasprogramador.github.io/PROJETO-ENTREVISTA/"> hamburgueria  </a>
+Conheça o site clicando em <a href="https://wandersondefariasprogramador.github.io/Projeto-haburgue/"> hamburgueria  </a>
 
 <hr>
 
